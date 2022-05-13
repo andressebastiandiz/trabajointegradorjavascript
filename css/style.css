@@ -1,0 +1,208 @@
+.texto {
+    text-align: right;
+    margin-bottom: 14%;
+}
+
+h2 {
+    text-align: center;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.ora {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+ul {
+    padding-top: 1.5%;
+    margin-right: 6%;
+}
+
+.active {color: white;}
+
+.conf {font-size: x-large;}
+
+.gris {color: rgb(99, 101, 96);}
+
+.verde {color: rgb(54, 99, 67);}
+
+.confe {
+    font-size: xx-large;
+
+}
+
+.orador {
+    color: white;
+    background: none;
+    border: solid white;
+    border-radius: 0.2rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    margin-right: 0.4rem;
+}
+
+.ticket {
+    color: white;
+    background-color: green;
+    border: green;
+    border-radius: 0.2rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.tarjetas {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card-img-top {
+    height: auto;
+}
+
+.botones {
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    display: flex;    
+}
+
+.input {
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    display: flex;    
+}
+
+.botones2 {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    display: flex;    
+}
+
+.botones3 {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    display: flex;    
+}
+
+.btn1 {
+    margin-right: 0.9rem;
+}
+
+.btn1 a {
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 0% 8%;
+}
+
+.btn2 a {
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 0% 8%;
+    background-color: rgb(32, 156, 178);
+}
+
+.btn3 a {
+    color: white;
+    background-color: rgb(107, 113, 121);
+    border-color: rgb(107, 113, 121);
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 0% 8%;
+    margin-right: 1rem;
+}
+
+.btn4 a {
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding: 0% 8%;
+    background-color: rgb(216, 53, 72);
+    border-color: rgb(216, 53, 72);
+}
+
+.card-body {
+    padding-top: 0;
+}
+
+.card {
+    margin: 0 0.8rem;
+}
+
+.paneles {
+    width: 100%;
+    display: flex;
+    border: 0.1rem;
+    border-style: solid;
+}
+
+.imghono {
+    border-radius: 0;
+}
+
+.tarj2 {
+    background-color: rgb(53, 58, 64);
+    border-radius: 0;
+}
+
+.pcard .btnbsas {
+    color: white;
+    background: none;
+    border: solid white;
+    border-radius: 0.2rem;
+    padding: 0.4rem 0.7rem 0.4rem 0.7rem;
+}
+
+.form p {
+    text-align: center;
+}
+
+.form .subry {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.caja {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.caja textarea {
+    font-size: larger;
+}
+
+.caja label {
+    font-size: small;
+}
+
+.caja button {
+    width: 100%;
+    color: white;
+    background-color: rgb(150, 201, 62);
+    border: 1px solid;
+    border-radius: 0.2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: large;
+
+}
+
+.footer {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,81,111,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.ulti {
+    background-color: blue;
+}
+
+a:link {color: white;}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:visited {
+    color: white;
+}
